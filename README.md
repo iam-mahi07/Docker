@@ -1,6 +1,8 @@
-Hey! Welcome to the Docker world👋
+# Docker
 
-This repo helps you to gain knowledge from scratch to an advanced level on Docker. I promise!
+Hey! Welcome to the world of Containerization👋
+
+This repo would help you to gain knowledge from scratch to an advanced level on Docker. I promise!
 
 What you'd learn?
 
